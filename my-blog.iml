@@ -25,6 +25,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.62" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:2.1.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.1.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.1.0.RELEASE" level="project" />
@@ -103,5 +104,9 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.6.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: javax.xml.bind:jaxb-api:2.3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: javax.activation:javax.activation-api:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.httpcomponents:httpclient:4.5.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: commons-codec:commons-codec:1.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.httpcomponents:httpmime:4.5.8" level="project" />
   </component>
 </module>
